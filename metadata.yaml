@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '1850'
     url: http://www.gutenberg.org/2009/agents/1850
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40574#The-Ranche-on-the-OxhideA-Story-of-Boys-and-Girls-Life-on-the-Frontier
 gutenberg_issued: '2012-08-24'
 gutenberg_type: Text
 identifiers:
