@@ -1,0 +1,36 @@
+_repo: The-Ranche-on-the-OxhideA-Story-of-Boys-and-Girls-Life-on-the-Frontier_40574
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hudson, Charles B. (Charles Bradford)
+    alias: Hudson, Charles Bradford
+    birthdate: 1865
+    deathdate: 1939
+    gutenberg_agent_id: '40417'
+    url: http://www.gutenberg.org/2009/agents/40417
+covers:
+- cover_type: archival
+  image_path: 40574-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Inman, Henry
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '1850'
+    url: http://www.gutenberg.org/2009/agents/1850
+description: ''
+gutenberg_issued: '2012-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40574'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kansas -- Juvenile fiction'
+- !lcsh 'Ranch life -- West (U.S.) -- Juvenile fiction'
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Ranche on the Oxhide: A Story of Boys'' and Girls'' Life on the Frontier'
+url: http://www.gutenberg.org/ebooks/40574
